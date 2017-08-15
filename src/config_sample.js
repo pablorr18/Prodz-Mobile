@@ -1,0 +1,5 @@
+module.exports = {
+	"ACCESS_TOKEN":"TOKEN HERE",
+	"API_SERVER":"SERVER URL",
+	"ASSETS_URL":"SERVER URL"
+}
