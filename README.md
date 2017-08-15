@@ -5,6 +5,6 @@ A React Native app for both iOS and Android using my own API Server with Redux a
 
 ### Preview: 
 
-![](src/images/screenshot_1.png)
-![](src/images/screenshot_2.png)
+![](src/images/screenshot_1.jpg)
+![](src/images/screenshot_2.jpg)
 hello@prodz.me
